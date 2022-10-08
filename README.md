@@ -1,2 +1,2 @@
 # JAVA-Medisol
-# A Java Servlet and JSP base website to buy medicines
+# A Java Servlet and JSP based website to buy medicines
