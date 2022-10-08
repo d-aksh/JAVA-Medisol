@@ -1,0 +1,85 @@
+nav{
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+nav img{
+    height: 20px;
+}
+a{
+    color: rgb(54, 54, 54);
+    font-weight: bold;
+}
+ul a{
+    color: rgb(54, 54, 54);
+    font-weight: normal;
+}
+a>span{
+    color: rgb(215, 11, 11);
+    font-weight: bolder;
+}
+a:hover{
+    text-decoration: none;
+}
+p{
+    font-size: 80%;
+    color: rgb(70, 70, 70);
+}
+.btn{
+    font-weight: bold;
+}
+header{
+    background-color: rgb(227, 242, 248);
+    padding: 20px;
+    border-radius: 30px;
+}
+header h1{
+    font-weight: bolder;
+    font-size: 300%;
+    color: rgb(13, 13, 93);
+}
+header img{
+    height: 80px;
+    border-radius: 20px;
+    margin: 5px;
+}
+.mycard{
+    border: 1px solid rgb(205, 205, 205);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.image-circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(227, 227, 227);
+    margin: auto;
+}
+.mycard img{
+    height: 50px;
+    margin-top: 25px;
+}
+.mycard h5{
+    margin-top: 15px;
+    color: rgb(13, 13, 93);
+    font-weight: bolder;
+}
+h3{
+    color: rgb(13, 13, 93);
+    font-weight: bolder;
+}
+.gallery img{
+    height: 180px;
+    margin: 5px;
+    transition: 1s;
+}
+.gallery img:hover{
+    transform: scale(1.2);
+}
+#btnTop{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color: rgb(233, 191, 7);
+}
